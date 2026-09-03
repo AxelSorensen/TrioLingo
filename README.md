@@ -30,3 +30,5 @@ Opens the default Vite dev server (see terminal output for the URL, typically [h
 ## Status
 
 📦 Unstarted — the `App.jsx`, styles, and README are still the default `create-vite` template (package name is `translate`); no translation/language features have been built yet.
+
+✅ Runs cleanly — `npm install && npm run build` verified working as of 2026-09-03 (no code changes needed).
