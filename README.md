@@ -2,6 +2,8 @@
 
 A placeholder for a planned translation app — currently just the unmodified Vite + React starter.
 
+![TrioLingo screenshot](docs/screenshot.png)
+
 ## Features
 
 - ⚡ **Vite + React scaffold** — fast HMR dev setup, ready for a real app to be built on top
